@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sffa-dev
+- 👀 I’m interested in strict followed fullstack architecture
+- 🌱 I’m currently learning typescript, python, zig lang
+- 💞️ I’m looking for cooperation to create simple but reliable, scalable and modular applications
+- 📫 How to reach me: Oleksii Duhnist
